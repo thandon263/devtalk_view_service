@@ -18,10 +18,8 @@ And then execute:
     $ bundle
 
 Or install it yourself as:
-
-    ```Shell 
-        $ gem install devtalk_view_service 
-    ```
+ 
+    $ gem install devtalk_view_service 
 
 ## Usage
 
